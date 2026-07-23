@@ -35,3 +35,9 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### 로컬 전용 설정 (실제 비밀번호가 들어갈 수 있는 파일) ###
+application-local.properties
+application-local.yml
+.env
+*.log
